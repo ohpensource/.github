@@ -1,0 +1,9 @@
+{
+  "name": "Ohpen Source Notify CI/CD Teams Channel Workflow",
+  "description": "Ohpen Source Notify CI/CD Teams Channel Workflow Template",
+  "iconName": "ms-teams",
+  "categories": [
+    "Terraform",
+    "modules"
+  ]
+}
