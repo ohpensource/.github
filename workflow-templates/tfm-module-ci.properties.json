@@ -1,0 +1,9 @@
+{
+  "name": "OhpenSource Terraform Module CI Workflow",
+  "description": "OhpenSource Terraform Module CI workflow",
+  "iconName": "tfm",
+  "categories": [
+    "Terraform",
+    "modules"
+  ]
+}
